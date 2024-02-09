@@ -14825,7 +14825,7 @@ label{
 
 .navbar-brand {
   /* color: #0d1a64; */
-  color: #000;
+  color: black;
   padding: 0 15px;
   padding-top: 10px;
   padding-bottom: 5px;
@@ -14860,7 +14860,7 @@ label{
   font-size: 17px;
   letter-spacing: 2px;
   /* color: #0d1a64; */
-  color: #000;
+  color: black;
   font-weight: bolder;
   text-transform: uppercase;
 }
@@ -14951,7 +14951,7 @@ label{
   font-family: 'Dosis', sans-serif;
   font-weight: bold;
   letter-spacing: 9px;
-  color: #000;
+  color: black;
   /*  */
 }
 
